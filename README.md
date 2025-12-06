@@ -79,14 +79,8 @@ This project is currently under patent processing, therefore:
 ✔ Project Description
 ✔ Demo Video Link
 
-⚠️ No source code included due to patent restrictions.
+⚠️ No source code included due to patent process restrictions.
 
-📽️ Demo Video
-
-(Upload your YouTube link here when ready)
-Example:
-
-https://youtu.be/your-video-id
 
 🛠️ Tech Stack (High-Level)
 Component	Technology
